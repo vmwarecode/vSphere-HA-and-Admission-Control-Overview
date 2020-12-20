@@ -1,1 +1,0 @@
-# vSphere-HA-and-Admission-Control-Overview
